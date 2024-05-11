@@ -4,8 +4,6 @@ Automate your trades with Proxy Trading! 🤖💹 Register under a master trader
 
 ## Installation 🛠️
 
-To get started with Proxy Trading:
-
 <details>
   <summary>Click to expand!</summary>
 
@@ -62,6 +60,10 @@ To get started with Proxy Trading:
 
 </details>
 
+## Alice Blue API Documentation 📚
+
+Explore the [Alice Blue API Documentation](https://v2api.aliceblueonline.com/) to learn more about integrating with their services.
+
 ## Contributing 🤝
 
 <details>
@@ -76,3 +78,4 @@ To get started with Proxy Trading:
   5. Push to the branch (`git push origin feature`)
   6. Create a new Pull Request
 
+</details>
